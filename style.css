@@ -1,0 +1,16 @@
+a {
+  text-decoration: none;
+  background-color: pink;
+  color: black;
+  border-radius: 99px;
+  display: inline-block;
+  margin: 20px;
+  width: 100px;
+  text-align: center;
+  padding: 10px;
+  font-style: italic;
+}
+a:hover {
+  background-color: black;
+  color: pink;
+}
